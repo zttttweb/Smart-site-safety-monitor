@@ -1,7 +1,5 @@
 # smart-site-safety-monitor
 
-## 基于 YOLOv11 的智慧工地 PPE 与危险区域安全监测系统
-
 > 面向 EHS（环境、健康与安全）场景的计算机视觉辅助监测系统。
 > 基于开源项目 [Smart_Construction](https://github.com/PeterH0323/Smart_Construction) 复现，
 > 完成模型升级、业务逻辑改造与 EHS 闭环模块开发。
