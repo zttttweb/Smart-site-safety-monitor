@@ -223,8 +223,6 @@ pip install ultralytics pandas openpyxl
 ---
 
 ## 参考与致谢
-
-- [PeterH0323/Smart_Construction](https://github.com/PeterH0323/Smart_Construction) —— 原开源项目，提供禁区标注与画框等基础实现思路
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) —— YOLOv11 训练与推理框架
 - [njvisionpower/Safety-Helmet-Wearing-Dataset](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset) —— SHWD 安全帽数据集
 
